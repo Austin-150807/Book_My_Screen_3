@@ -130,7 +130,7 @@ export const generateTicketPDF = async ({
     doc.setFontSize(12);
     doc.setTextColor(212, 175, 55);
     doc.text("TOTAL PAID", left, y);
-    doc.text(`\u20B9 ${totalAmount}`, right, y, { align: "right" });
+    doc.text(`Rs. ${totalAmount}`, right, y, { align: "right" });
 
     // ===============================
     // QR CODE

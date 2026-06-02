@@ -1,0 +1,20 @@
+{
+  "name": "book_my_screen_3",
+  "version": "1.0.0",
+  "description": "Welcome to the **BookMyScreen** tutorial series – your ultimate guide to building a **full-stack movie ticket booking system** using **React**, **Node.js**, **MongoDB**, and **Express.js**.",
+  "homepage": "https://github.com/Austin-150807/Book_My_Screen_3#readme",
+  "bugs": {
+    "url": "https://github.com/Austin-150807/Book_My_Screen_3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin-150807/Book_My_Screen_3.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
